@@ -1,7 +1,7 @@
 ### Requirements
 - NodeJS v21.4.0 or later
 - NPM v10.2.4 or later
-
+- Update - algie.d.asiga
 ### Installation
 1. Run command ```npm i```
   - run this command once for initial installation of dependencies
